@@ -2,5 +2,5 @@
 
   - [Lectura](Regresión%20Logistica.pdf)  
   - [Actividad 2](Actividad%202.pdf)
-  
-<sup>_</sup>
+ 
+<sup>Los datos de trabajo para las actividades y ejemplos se encuentran dentro de la carpeta [datasets](datasets)</sup>
