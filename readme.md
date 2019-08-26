@@ -39,3 +39,14 @@
   4.7 Sobredispersión.  
   4.8 Modelos de regresión Binomial Negativa.  
   4.9 Parámetro de sobredispersión.    
+
+<hr>
+Bibliografía:
+
+- McCullagh, P. & J. A. Nelder 1989 "Generalized Linear Models" 2nd edition, Monographs on Statistics and Applied Probability 37, Chapman and Hall, University Press Cambridge, Great Britain, 511p.
+
+- Agresti, A. 2007 "An Introduction to Categorical Data Analysis", 2nd Edition, John Wiley & Sons, 372 p.
+
+- Hosmer, D. W. & S. Lemeshow 1989, "Applied Logistic Regression" Wiley Series in Probability and Mathematical Statistics, John Wiley & Sons, U.S.A.
+
+- Everitt, B. S. 1977 "The Análisis of Contingency Tables", Chapman & Hall Ltd. London England, 128 p.
